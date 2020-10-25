@@ -1,0 +1,2 @@
+build sass to scss:
+    -  sass --watch C:/Users/Admin/Documents/FRONTEND_ROADMAP/JS/ROCK-PAPER-SCISSORS/design/original/design/scss:C:/Users/Admin/Documents/FRONTEND_ROADMAP/JS/ROCK-PAPER-SCISSORS/design/original/design/css  --style compressed
